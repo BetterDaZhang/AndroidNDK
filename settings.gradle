@@ -1,0 +1,1 @@
+include ':ndk_environment_gradle', ':ndk_environment_ndkbuild'
