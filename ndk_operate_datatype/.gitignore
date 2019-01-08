@@ -1,0 +1,5 @@
+/build
+/.externalNativeBuild
+/ndk_operate_datatype.iml
+/main/libs
+/main/obj

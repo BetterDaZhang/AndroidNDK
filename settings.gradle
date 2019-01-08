@@ -1,1 +1,1 @@
-include ':ndk_environment_gradle', ':ndk_environment_ndkbuild'
+include ':ndk_environment_gradle', ':ndk_environment_ndkbuild', ':ndk_operate_datatype'
